@@ -7,5 +7,6 @@ package com.zhangwuji.algorithm.arrays;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("zwk");
+        System.out.println("飞雪连天射白鹿,笑书神侠倚碧鸳");
     }
 }
