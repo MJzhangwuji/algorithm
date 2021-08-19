@@ -2,10 +2,7 @@ package com.zhangwuji.algorithm.arrays;
 
 import java.util.List;
 
-/**
- * @author zhangwuji
- * @date 2021/8/19  --7:34
- */
+
 //题目 :  给你一个包含n个整数的数组nums.
 //      判断nums中是否存在三个元素a. b. c.使得a+b+
 //      c=0?请你找出所有满足条件且不重复的三元组。
@@ -20,6 +17,6 @@ import java.util.List;
 public class ThreeNumsSums {
     //方法一:暴力法:
     public List<List<Integer>> threeSum(int[] nums){
-
+    return  null;
     }
 }
